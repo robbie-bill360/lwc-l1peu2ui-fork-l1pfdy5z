@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/robbie-bill360.lwc-l1peu2ui-fork-l1pfdy5z",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve aWRtV5L7kG72jivgxKii --open"
+  }
+}
